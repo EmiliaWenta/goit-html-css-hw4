@@ -1,4 +1,4 @@
-# goit-html-hw4
+# goit-html-css-hw4
 Purpose of the task was:
 - add markup, icon styling and decorative effects to layout pages,
 - generate an SVG sprite.
